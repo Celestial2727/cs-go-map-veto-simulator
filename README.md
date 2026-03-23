@@ -25,3 +25,5 @@ python cs2_map_veto_simulator.py
 ## Author
 
 Celestial
+
+## **This may be updated if the community gives me ideas.**
