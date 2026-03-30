@@ -12,11 +12,6 @@ A simple Python app that simulates CS:GO map veto (like FACEIT) against an AI.
 * Custom maps
 * Map stats (% played)
 
-## How to run
-
-```bash
-python cs2_map_veto_simulator.py
-```
 
 ## Requirements
 
