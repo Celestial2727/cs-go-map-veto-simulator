@@ -1,4 +1,4 @@
-# cs2-map-veto-simulator
+# cs-go-map-veto-simulator
 
 # CS:GO Map Veto Simulator 
 
